@@ -18,6 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
     NSLog(@"妈的怎么传不上啊！");
+    NSLog(@"妈的怎么传不上啊！");
+    NSLog(@"妈的怎么传不上啊！");
 }
 
 - (void)didReceiveMemoryWarning {
