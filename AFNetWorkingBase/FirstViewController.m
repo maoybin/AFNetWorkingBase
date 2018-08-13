@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view from its nib.
     NSLog(@"妈的怎么传不上啊！");
     NSLog(@"妈的怎么传不上啊！");
-    NSLog(@"妈的dingo ！");
+    NSLog(@"妈的dingo00 ！");
 }
 
 - (void)didReceiveMemoryWarning {
