@@ -42,6 +42,8 @@
     
     [self get_connection];
     
+    NSLog(@"点击我啊啊啊啊啊");
+    
 }
 
 
@@ -73,6 +75,12 @@
     }];
     
 }
+
+//- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
+//
+//
+//
+//}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
