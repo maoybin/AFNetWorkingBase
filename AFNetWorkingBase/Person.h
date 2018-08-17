@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface Person : Animal
+@interface Person : NSObject
 
 @end
