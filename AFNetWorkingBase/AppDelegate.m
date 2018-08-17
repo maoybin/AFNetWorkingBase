@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
-    NSLog(@"删除了注释哈哈！");
+    NSLog(@"删除了注释哈哈 change_site！");
     return YES;
 }
 
