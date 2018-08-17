@@ -11,7 +11,6 @@
 		FF04FEEE212189A9002D7EB0 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF04FEED212189A9002D7EB0 /* HomeViewController.m */; };
 		FF0C161F21258B4100DA001E /* Hello.m in Sources */ = {isa = PBXBuildFile; fileRef = FF0C161E21258B4100DA001E /* Hello.m */; };
 		FF4F8D692126628A0053B0A3 /* Animal.m in Sources */ = {isa = PBXBuildFile; fileRef = FF4F8D682126628A0053B0A3 /* Animal.m */; };
-		FF4F8D6C21267B8F0053B0A3 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = FF4F8D6B21267B8F0053B0A3 /* Person.m */; };
 		FFC74BC0211C69BE00882931 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC74BBF211C69BE00882931 /* AppDelegate.m */; };
 		FFC74BC3211C69BE00882931 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC74BC2211C69BE00882931 /* ViewController.m */; };
 		FFC74BC6211C69BE00882931 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFC74BC4211C69BE00882931 /* Main.storyboard */; };
@@ -57,8 +56,6 @@
 		FF0C161E21258B4100DA001E /* Hello.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Hello.m; sourceTree = "<group>"; };
 		FF4F8D672126628A0053B0A3 /* Animal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Animal.h; sourceTree = "<group>"; };
 		FF4F8D682126628A0053B0A3 /* Animal.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Animal.m; sourceTree = "<group>"; };
-		FF4F8D6A21267B8F0053B0A3 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
-		FF4F8D6B21267B8F0053B0A3 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 		FFC74BBB211C69BE00882931 /* AFNetWorkingBase.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AFNetWorkingBase.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFC74BBE211C69BE00882931 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FFC74BBF211C69BE00882931 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -149,8 +146,6 @@
 				FFC74BBF211C69BE00882931 /* AppDelegate.m */,
 				FF0C161D21258B4100DA001E /* Hello.h */,
 				FF0C161E21258B4100DA001E /* Hello.m */,
-				FF4F8D6A21267B8F0053B0A3 /* Person.h */,
-				FF4F8D6B21267B8F0053B0A3 /* Person.m */,
 				FFC74BC1211C69BE00882931 /* ViewController.h */,
 				FF4F8D672126628A0053B0A3 /* Animal.h */,
 				FF4F8D682126628A0053B0A3 /* Animal.m */,
@@ -349,7 +344,6 @@
 				FFC74BC3211C69BE00882931 /* ViewController.m in Sources */,
 				FFC74C05211C69DB00882931 /* AFHTTPRequestOperationManager.m in Sources */,
 				FF0C161F21258B4100DA001E /* Hello.m in Sources */,
-				FF4F8D6C21267B8F0053B0A3 /* Person.m in Sources */,
 				FFC74C07211C69DB00882931 /* AFNetworkReachabilityManager.m in Sources */,
 				FF4F8D692126628A0053B0A3 /* Animal.m in Sources */,
 				FFC74C0B211C69DB00882931 /* AFURLResponseSerialization.m in Sources */,
