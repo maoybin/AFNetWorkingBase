@@ -13,8 +13,5 @@
 -(void)dealloc{
     
     NSLog(@"哈哈哈哈！！");
-    
-     NSLog(@"哈哈哈哈！！");
-    
 }
 @end
