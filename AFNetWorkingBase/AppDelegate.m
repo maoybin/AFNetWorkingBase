@@ -17,8 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
-
-    NSLog(@"删除了注释哈哈！与主要的分支不一样！");
+    NSLog(@"删除了注释哈哈！");
 
     return YES;
 }
