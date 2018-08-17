@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
-    NSLog(@"删除了注释哈哈！");
+    NSLog(@"删除了注释哈哈！我是B远端也增加点东西!");
 
     return YES;
 }
