@@ -10,7 +10,7 @@
 
 @implementation Hello
 
--(void)dealloc{
+-(void)dealloc{ 
     
     NSLog(@"哈哈哈哈！！");
 }
